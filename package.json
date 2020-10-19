@@ -11,7 +11,7 @@
     "access": "public"
   },
   "scripts": {
-    "icons": "node collect-icon-svgs"
+    "build": "node collect-icon-svgs"
   },
   "dependencies": {
     "fs": "^0.0.1-security",
