@@ -17,14 +17,11 @@ They can then be used in your application like any other `.svg`.
 We use a subset of "Outlined" Material icons at Nulogy. To find and add a new one:
 
 1. Search [Material Icons](https://material.io/resources/icons/) for the icon you need
-2. Clone this repo (`git clone https://github.com/nulogy/design-system.git`)
+2. Clone this repo (`git clone https://github.com/nulogy/nds-icons.git`)
 3. Download svg and rename to desired icon name (in camelCase)
-4. Place svg in `/icons/assets/` folder
-5. In the `/icons` directory, run `yarn icons` to make the icon available to use
-6. In the `/components` directory run `yarn`
-7. Run `yarn start` and verify the icon was added correctly at [http://localhost:8080/?path=/story/components-icon--icon](http://localhost:8080/?path=/story/components-icon--icon)
-8. After verifying the icon is there, update storyshots with `yarn storyshots:update`
-9. Submit PR
+4. Place svg in `assets/` folder
+5. run `yarn && yarn icons` to make the icon available to use
+6. Submit PR
 
 ## 💬 Questions
 
