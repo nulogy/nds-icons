@@ -11,10 +11,21 @@
     "access": "public"
   },
   "scripts": {
-    "build": "node collect-icon-svgs"
+    "build": "node collect-icon-svgs",
+    "lint": "yarn prettier --check .",
+    "lint:fix": "yarn prettier --write ."
   },
   "dependencies": {
     "fs": "^0.0.1-security",
     "svgi": "^1.1.0"
+  },
+  "devDependencies": {
+    "husky": "^4.3.0",
+    "prettier": "2.1.2"
+  },
+  "husky": {
+    "hooks": {
+      "pre-push": "yarn lint"
+    }
   }
 }
