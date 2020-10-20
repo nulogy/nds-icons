@@ -20,7 +20,7 @@ We use a subset of "Outlined" Material icons at Nulogy. To find and add a new on
 2. Clone this repo (`git clone https://github.com/nulogy/nds-icons.git`)
 3. Download svg and rename to desired icon name (in camelCase)
 4. Place svg in `assets/` folder
-5. run `yarn && yarn icons` to make the icon available to use
+5. run `yarn && yarn build` to make the icon available to use
 6. Submit PR
 
 ## 💬 Questions
