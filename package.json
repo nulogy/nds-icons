@@ -5,7 +5,7 @@
   "main": "index.js",
   "author": "Nulogy <info@nulogy.com> (https://github.com/nulogy)",
   "homepage": "http://nulogy.design",
-  "repository": "https://github.com/nulogy/design-system",
+  "repository": "https://github.com/nulogy/nds-icons",
   "private": false,
   "publishConfig": {
     "access": "public"
