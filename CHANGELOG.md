@@ -1,3 +1,11 @@
+## [4.10.2](https://github.com/nulogy/nds-icons/compare/v4.10.1...v4.10.2) (2020-10-22)
+
+
+### Bug Fixes
+
+* test release workflow ([28cc354](https://github.com/nulogy/nds-icons/commit/28cc354aed4f197c697f591e058c9d4146f04134))
+* testing release workflow, removes semantic-release/git ([91e05a9](https://github.com/nulogy/nds-icons/commit/91e05a9bd238e7bfb95d5b8423a47ce6a51cd58d))
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
