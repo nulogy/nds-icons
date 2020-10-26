@@ -1,3 +1,10 @@
+## [4.10.5](https://github.com/nulogy/nds-icons/compare/v4.10.4...v4.10.5) (2020-10-26)
+
+
+### Bug Fixes
+
+* specify bundle in package.json ([05f2020](https://github.com/nulogy/nds-icons/commit/05f20203dae323a2206d9897b3fca26a254c168e))
+
 ## [4.10.4](https://github.com/nulogy/nds-icons/compare/v4.10.3...v4.10.4) (2020-10-26)
 
 ### Bug Fixes
