@@ -10,6 +10,10 @@
   "publishConfig": {
     "access": "public"
   },
+  "files": [
+    "/dist"
+  ],
+  "main": "dist/main.js",
   "scripts": {
     "build": "node collect-icon-svgs && rollup -c",
     "lint": "yarn prettier --check .",
