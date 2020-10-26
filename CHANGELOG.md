@@ -1,17 +1,15 @@
 ## [4.10.4](https://github.com/nulogy/nds-icons/compare/v4.10.3...v4.10.4) (2020-10-26)
 
-
 ### Bug Fixes
 
-* add build step to create bundle file with json inlined ([c01ef25](https://github.com/nulogy/nds-icons/commit/c01ef259aeafe446618a30c9aa2555580b549bdd))
-* Add rollup and inline json ([5c5f9e6](https://github.com/nulogy/nds-icons/commit/5c5f9e61679eb2af7ee18f8521d5480f4aaa9154))
+- add build step to create bundle file with json inlined ([c01ef25](https://github.com/nulogy/nds-icons/commit/c01ef259aeafe446618a30c9aa2555580b549bdd))
+- Add rollup and inline json ([5c5f9e6](https://github.com/nulogy/nds-icons/commit/5c5f9e61679eb2af7ee18f8521d5480f4aaa9154))
 
 ## [4.10.3](https://github.com/nulogy/nds-icons/compare/v4.10.2...v4.10.3) (2020-10-26)
 
-
 ### Bug Fixes
 
-* test workflow only ([359c2a9](https://github.com/nulogy/nds-icons/commit/359c2a93ed0ac99fb2045e3ee9563d2a86632126))
+- test workflow only ([359c2a9](https://github.com/nulogy/nds-icons/commit/359c2a93ed0ac99fb2045e3ee9563d2a86632126))
 
 ## [4.10.3](https://github.com/nulogy/nds-icons/compare/v4.10.2...v4.10.3) (2020-10-22)
 
