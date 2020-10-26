@@ -1,9 +1,8 @@
 ## [4.10.3](https://github.com/nulogy/nds-icons/compare/v4.10.2...v4.10.3) (2020-10-22)
 
-
 ### Bug Fixes
 
-* test workflow only ([359c2a9](https://github.com/nulogy/nds-icons/commit/359c2a93ed0ac99fb2045e3ee9563d2a86632126))
+- test workflow only ([359c2a9](https://github.com/nulogy/nds-icons/commit/359c2a93ed0ac99fb2045e3ee9563d2a86632126))
 
 ## [4.10.2](https://github.com/nulogy/nds-icons/compare/v4.10.1...v4.10.2) (2020-10-22)
 
