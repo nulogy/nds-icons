@@ -1,3 +1,10 @@
+# [4.11.0](https://github.com/nulogy/nds-icons/compare/v4.10.5...v4.11.0) (2020-11-06)
+
+
+### Features
+
+* adds a wrench icon ([502b88f](https://github.com/nulogy/nds-icons/commit/502b88f4068ae1ff48bbbbf5fdcce74d92923d36))
+
 ## [4.10.5](https://github.com/nulogy/nds-icons/compare/v4.10.4...v4.10.5) (2020-10-26)
 
 
