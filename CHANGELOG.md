@@ -1,3 +1,10 @@
+# [4.12.0](https://github.com/nulogy/nds-icons/compare/v4.11.0...v4.12.0) (2020-11-09)
+
+
+### Features
+
+* add collapse/expand icons ([a9e30ef](https://github.com/nulogy/nds-icons/commit/a9e30efdc23bbb9e70f3bf847d22e6b9818504fa))
+
 # [4.11.0](https://github.com/nulogy/nds-icons/compare/v4.10.5...v4.11.0) (2020-11-06)
 
 
