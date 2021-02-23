@@ -1,23 +1,20 @@
 # [4.12.0](https://github.com/nulogy/nds-icons/compare/v4.11.0...v4.12.0) (2020-11-09)
 
-
 ### Features
 
-* add collapse/expand icons ([a9e30ef](https://github.com/nulogy/nds-icons/commit/a9e30efdc23bbb9e70f3bf847d22e6b9818504fa))
+- add collapse/expand icons ([a9e30ef](https://github.com/nulogy/nds-icons/commit/a9e30efdc23bbb9e70f3bf847d22e6b9818504fa))
 
 # [4.11.0](https://github.com/nulogy/nds-icons/compare/v4.10.5...v4.11.0) (2020-11-06)
 
-
 ### Features
 
-* adds a wrench icon ([502b88f](https://github.com/nulogy/nds-icons/commit/502b88f4068ae1ff48bbbbf5fdcce74d92923d36))
+- adds a wrench icon ([502b88f](https://github.com/nulogy/nds-icons/commit/502b88f4068ae1ff48bbbbf5fdcce74d92923d36))
 
 ## [4.10.5](https://github.com/nulogy/nds-icons/compare/v4.10.4...v4.10.5) (2020-10-26)
 
-
 ### Bug Fixes
 
-* specify bundle in package.json ([05f2020](https://github.com/nulogy/nds-icons/commit/05f20203dae323a2206d9897b3fca26a254c168e))
+- specify bundle in package.json ([05f2020](https://github.com/nulogy/nds-icons/commit/05f20203dae323a2206d9897b3fca26a254c168e))
 
 ## [4.10.4](https://github.com/nulogy/nds-icons/compare/v4.10.3...v4.10.4) (2020-10-26)
 
