@@ -1,3 +1,10 @@
+# [4.14.0](https://github.com/nulogy/nds-icons/compare/v4.13.0...v4.14.0) (2021-03-08)
+
+
+### Features
+
+* add sort icon ([#41](https://github.com/nulogy/nds-icons/issues/41)) ([10a63db](https://github.com/nulogy/nds-icons/commit/10a63dbc7b373dc01c032d3ad702eda9af2b964d))
+
 # [4.13.0](https://github.com/nulogy/nds-icons/compare/v4.12.0...v4.13.0) (2021-02-23)
 
 ### Features
