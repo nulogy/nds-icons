@@ -1,9 +1,8 @@
 # [4.13.0](https://github.com/nulogy/nds-icons/compare/v4.12.0...v4.13.0) (2021-02-23)
 
-
 ### Features
 
-* adds barcode icon ([b012bc3](https://github.com/nulogy/nds-icons/commit/b012bc3051d9109268481b884e9534a12da08121))
+- adds barcode icon ([b012bc3](https://github.com/nulogy/nds-icons/commit/b012bc3051d9109268481b884e9534a12da08121))
 
 # [4.12.0](https://github.com/nulogy/nds-icons/compare/v4.11.0...v4.12.0) (2020-11-09)
 
