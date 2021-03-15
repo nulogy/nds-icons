@@ -1,3 +1,10 @@
+# [4.15.0](https://github.com/nulogy/nds-icons/compare/v4.14.0...v4.15.0) (2021-03-15)
+
+
+### Features
+
+* Add moveRight, moveLeft and fitScreen icons ([#46](https://github.com/nulogy/nds-icons/issues/46)) ([e3710d9](https://github.com/nulogy/nds-icons/commit/e3710d9de9a3df7153e6de0b835631ea7c0c53ee))
+
 # [4.14.0](https://github.com/nulogy/nds-icons/compare/v4.13.0...v4.14.0) (2021-03-08)
 
 
