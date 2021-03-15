@@ -15,9 +15,7 @@
   ],
   "main": "dist/main.js",
   "scripts": {
-    "build": "node collect-icon-svgs && rollup -c",
-    "lint": "yarn prettier --check .",
-    "lint:fix": "yarn prettier --write ."
+    "build": "node collect-icon-svgs && rollup -c"
   },
   "dependencies": {
     "fs": "^0.0.1-security",
@@ -35,14 +33,8 @@
     "@semantic-release/npm": "^7.0.6",
     "@semantic-release/release-notes-generator": "^9.0.1",
     "babel-plugin-inline-json-import": "^0.3.2",
-    "husky": "^4.3.0",
     "prettier": "2.1.2",
     "rollup": "^2.32.1",
     "semantic-release": "^17.2.1"
-  },
-  "husky": {
-    "hooks": {
-      "pre-push": "yarn lint"
-    }
   }
 }
