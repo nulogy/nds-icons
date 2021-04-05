@@ -1,3 +1,10 @@
+# [4.16.0](https://github.com/nulogy/nds-icons/compare/v4.15.0...v4.16.0) (2021-04-05)
+
+
+### Features
+
+* add attachment icon ([#56](https://github.com/nulogy/nds-icons/issues/56)) ([e046452](https://github.com/nulogy/nds-icons/commit/e0464525ac15aa6a46858125561e7cd2474bedd1))
+
 # [4.15.0](https://github.com/nulogy/nds-icons/compare/v4.14.0...v4.15.0) (2021-03-15)
 
 
