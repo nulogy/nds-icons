@@ -1,3 +1,10 @@
+# [4.17.0](https://github.com/nulogy/nds-icons/compare/v4.16.0...v4.17.0) (2021-04-07)
+
+
+### Features
+
+* add openInNew icon ([#57](https://github.com/nulogy/nds-icons/issues/57)) ([09903f7](https://github.com/nulogy/nds-icons/commit/09903f7be252a5766683e8b3792a298033d2c65a))
+
 # [4.16.0](https://github.com/nulogy/nds-icons/compare/v4.15.0...v4.16.0) (2021-04-05)
 
 
