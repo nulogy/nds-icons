@@ -1,3 +1,10 @@
+# [4.18.0](https://github.com/nulogy/nds-icons/compare/v4.17.0...v4.18.0) (2021-05-04)
+
+
+### Features
+
+* add sticky note icon ([#63](https://github.com/nulogy/nds-icons/issues/63)) ([d2c97e7](https://github.com/nulogy/nds-icons/commit/d2c97e71a6fef70ca1431cb8a80f1dbcd2b86869))
+
 # [4.17.0](https://github.com/nulogy/nds-icons/compare/v4.16.0...v4.17.0) (2021-04-07)
 
 
