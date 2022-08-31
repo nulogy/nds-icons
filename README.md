@@ -21,7 +21,8 @@ We use a subset of "Outlined" Material icons at Nulogy. To find and add a new on
 3. Download svg and rename to desired icon name (in camelCase)
 4. Place svg in `assets/` folder
 5. run `yarn && yarn build` to make the icon available to use
-6. Submit PR
+6. Commit the changes using a [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) message
+7. Submit PR
 
 ## 💬 Questions
 
