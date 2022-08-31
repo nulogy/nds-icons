@@ -1,3 +1,10 @@
+# [4.19.0](https://github.com/nulogy/nds-icons/compare/v4.18.0...v4.19.0) (2022-08-31)
+
+
+### Features
+
+* add commit message conventions to README.md ([6d20c09](https://github.com/nulogy/nds-icons/commit/6d20c0993ea7e847a7e2bc3a6efb5156f317be0f))
+
 # [4.18.0](https://github.com/nulogy/nds-icons/compare/v4.17.0...v4.18.0) (2021-05-04)
 
 
