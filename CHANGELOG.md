@@ -1,3 +1,10 @@
+## [4.19.1](https://github.com/nulogy/nds-icons/compare/v4.19.0...v4.19.1) (2022-09-19)
+
+
+### Bug Fixes
+
+* fixes check filled and info icons ([ca5dd95](https://github.com/nulogy/nds-icons/commit/ca5dd95ec4dacea67017daed80c721498aa71026))
+
 # [4.19.0](https://github.com/nulogy/nds-icons/compare/v4.18.0...v4.19.0) (2022-08-31)
 
 
