@@ -1,3 +1,10 @@
+## [4.21.1](https://github.com/nulogy/nds-icons/compare/v4.21.0...v4.21.1) (2022-09-21)
+
+
+### Bug Fixes
+
+* fixes typo in readnme ([b418a0b](https://github.com/nulogy/nds-icons/commit/b418a0b21e9630f7a908a7c744fc2b48a64f557c))
+
 # [4.21.0](https://github.com/nulogy/nds-icons/compare/v4.20.0...v4.21.0) (2022-09-20)
 
 
