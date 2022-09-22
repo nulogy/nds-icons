@@ -1,3 +1,10 @@
+# [4.22.0](https://github.com/nulogy/nds-icons/compare/v4.21.1...v4.22.0) (2022-09-22)
+
+
+### Features
+
+* adds warningOutline icon ([7efb336](https://github.com/nulogy/nds-icons/commit/7efb336586019ccfcd81fcb62d2425c9e6b4701f))
+
 ## [4.21.1](https://github.com/nulogy/nds-icons/compare/v4.21.0...v4.21.1) (2022-09-21)
 
 
