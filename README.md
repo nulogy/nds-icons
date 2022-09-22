@@ -14,7 +14,7 @@ They can then be used in your application like any other `.svg`.
 
 ## ➕ Adding a new icon
 
-We use a subset of "Outlined" Material icons at Nulogy. To find and add a new one:
+To find and add a new icon:
 
 1. Search [Material Icons](https://material.io/resources/icons/) for the icon you need
 2. In Figma, use the Material Design Icons plugin to add the icon to a document. Export the icon as SVG
