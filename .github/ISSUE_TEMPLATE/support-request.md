@@ -1,5 +1,5 @@
 ---
-name: Consultation/support request
+name: Support request
 about: Need to pair, consult, discuss functionality/design/implementation, make a
   decision, ...
 title: ''
