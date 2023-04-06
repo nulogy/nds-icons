@@ -1,3 +1,10 @@
+# [4.25.0](https://github.com/nulogy/nds-icons/compare/v4.24.1...v4.25.0) (2023-04-06)
+
+
+### Features
+
+* add update icon ([#158](https://github.com/nulogy/nds-icons/issues/158)) ([2251f09](https://github.com/nulogy/nds-icons/commit/2251f09dfc8699d9b2a507f4f5b6ad32a382f1bc))
+
 ## [4.24.1](https://github.com/nulogy/nds-icons/compare/v4.24.0...v4.24.1) (2023-04-06)
 
 
