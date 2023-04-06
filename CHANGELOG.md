@@ -1,3 +1,10 @@
+## [4.24.1](https://github.com/nulogy/nds-icons/compare/v4.24.0...v4.24.1) (2023-04-06)
+
+
+### Reverts
+
+* Revert "feat: Add update icon (#155)" (#157) ([bc2a876](https://github.com/nulogy/nds-icons/commit/bc2a876de87a7b517448cbfa3969fa76b115db36)), closes [#155](https://github.com/nulogy/nds-icons/issues/155) [#157](https://github.com/nulogy/nds-icons/issues/157)
+
 # [4.24.0](https://github.com/nulogy/nds-icons/compare/v4.23.0...v4.24.0) (2023-04-06)
 
 
