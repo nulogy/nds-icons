@@ -1,3 +1,10 @@
+# [4.26.0](https://github.com/nulogy/nds-icons/compare/v4.25.1...v4.26.0) (2023-04-21)
+
+
+### Features
+
+* add copy icon ([ae98c36](https://github.com/nulogy/nds-icons/commit/ae98c3621e4d588e4f60f9bfdba297f920e2679b))
+
 ## [4.25.1](https://github.com/nulogy/nds-icons/compare/v4.25.0...v4.25.1) (2023-04-10)
 
 
