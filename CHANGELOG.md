@@ -1,3 +1,10 @@
+## [4.26.2](https://github.com/nulogy/nds-icons/compare/v4.26.1...v4.26.2) (2023-09-14)
+
+
+### Bug Fixes
+
+* remove unused icon ([7482e6e](https://github.com/nulogy/nds-icons/commit/7482e6e6b72a491ed0aaa995d2cc651c8e1b88ea))
+
 ## [4.26.1](https://github.com/nulogy/nds-icons/compare/v4.26.0...v4.26.1) (2023-09-14)
 
 
