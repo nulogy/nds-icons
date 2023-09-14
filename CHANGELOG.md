@@ -1,3 +1,10 @@
+## [4.26.1](https://github.com/nulogy/nds-icons/compare/v4.26.0...v4.26.1) (2023-09-14)
+
+
+### Bug Fixes
+
+* Testing workflow change ([7659b45](https://github.com/nulogy/nds-icons/commit/7659b45fc3870e6ae0fc77295d72daaaabae4b5c))
+
 # [4.26.0](https://github.com/nulogy/nds-icons/compare/v4.25.1...v4.26.0) (2023-04-21)
 
 
