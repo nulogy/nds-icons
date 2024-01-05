@@ -1,3 +1,10 @@
+# [4.27.0](https://github.com/nulogy/nds-icons/compare/v4.26.2...v4.27.0) (2024-01-05)
+
+
+### Features
+
+* add substitutes and calendarClock icons ([deb1186](https://github.com/nulogy/nds-icons/commit/deb11869c339d3d05bf27799fb23ff4ea785cdf6))
+
 ## [4.26.2](https://github.com/nulogy/nds-icons/compare/v4.26.1...v4.26.2) (2023-09-14)
 
 
