@@ -1,3 +1,10 @@
+# [4.28.0](https://github.com/nulogy/nds-icons/compare/v4.27.0...v4.28.0) (2024-01-09)
+
+
+### Features
+
+* update info icon ([942a756](https://github.com/nulogy/nds-icons/commit/942a756490dc1ee8aa3bc473ea03f8bee88a8365))
+
 # [4.27.0](https://github.com/nulogy/nds-icons/compare/v4.26.2...v4.27.0) (2024-01-05)
 
 
