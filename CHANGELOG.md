@@ -1,3 +1,10 @@
+# [4.29.0](https://github.com/nulogy/nds-icons/compare/v4.28.0...v4.29.0) (2024-02-23)
+
+
+### Features
+
+* add signpost and update settings icon ([c82b3c8](https://github.com/nulogy/nds-icons/commit/c82b3c87f4e8e68608f25fb00b24ccd2b7d665e9))
+
 # [4.28.0](https://github.com/nulogy/nds-icons/compare/v4.27.0...v4.28.0) (2024-01-09)
 
 
