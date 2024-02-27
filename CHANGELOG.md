@@ -1,3 +1,10 @@
+# [4.30.0](https://github.com/nulogy/nds-icons/compare/v4.29.0...v4.30.0) (2024-02-27)
+
+
+### Features
+
+* add autoAwesome icon ([db2c8a5](https://github.com/nulogy/nds-icons/commit/db2c8a50340d600ab8867c418d1d511df2aec922))
+
 # [4.29.0](https://github.com/nulogy/nds-icons/compare/v4.28.0...v4.29.0) (2024-02-23)
 
 
