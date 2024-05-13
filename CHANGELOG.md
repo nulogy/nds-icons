@@ -1,3 +1,10 @@
+# [4.31.0](https://github.com/nulogy/nds-icons/compare/v4.30.0...v4.31.0) (2024-05-13)
+
+
+### Features
+
+* add shieldPerson icon ([3f0106e](https://github.com/nulogy/nds-icons/commit/3f0106ed01b3983d703ee76664da559bd17c2297))
+
 # [4.30.0](https://github.com/nulogy/nds-icons/compare/v4.29.0...v4.30.0) (2024-02-27)
 
 
