@@ -1,3 +1,10 @@
+# [4.32.0](https://github.com/nulogy/nds-icons/compare/v4.31.0...v4.32.0) (2024-05-13)
+
+
+### Features
+
+* simplify SVG ([7689ad2](https://github.com/nulogy/nds-icons/commit/7689ad23529bd50a8bc20fdaaa7815c6584ccfa7))
+
 # [4.31.0](https://github.com/nulogy/nds-icons/compare/v4.30.0...v4.31.0) (2024-05-13)
 
 
