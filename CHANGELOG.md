@@ -1,3 +1,10 @@
+# [4.33.0](https://github.com/nulogy/nds-icons/compare/v4.32.0...v4.33.0) (2024-05-14)
+
+
+### Features
+
+* add stickyNote, stylusNote, and undo icons ([36327d1](https://github.com/nulogy/nds-icons/commit/36327d1171bf57bcf96381e6da1d1dfccaf8bac6))
+
 # [4.32.0](https://github.com/nulogy/nds-icons/compare/v4.31.0...v4.32.0) (2024-05-13)
 
 
