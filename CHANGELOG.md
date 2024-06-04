@@ -1,3 +1,10 @@
+# [4.34.0](https://github.com/nulogy/nds-icons/compare/v4.33.0...v4.34.0) (2024-06-04)
+
+
+### Features
+
+* add 2 new icons (visibility and visibilityOff) ([a6ec68b](https://github.com/nulogy/nds-icons/commit/a6ec68b5d362ba33da3ddeca585d93ee544c5707))
+
 # [4.33.0](https://github.com/nulogy/nds-icons/compare/v4.32.0...v4.33.0) (2024-05-14)
 
 
