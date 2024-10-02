@@ -1,3 +1,10 @@
+# [4.35.0](https://github.com/nulogy/nds-icons/compare/v4.34.1...v4.35.0) (2024-10-02)
+
+
+### Features
+
+* add tune icon ([c663b47](https://github.com/nulogy/nds-icons/commit/c663b4762fc6606838e2db14ed609074bea40a35))
+
 ## [4.34.1](https://github.com/nulogy/nds-icons/compare/v4.34.0...v4.34.1) (2024-06-06)
 
 
