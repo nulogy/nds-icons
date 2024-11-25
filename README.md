@@ -1,16 +1,16 @@
 # @nulogy/icons
 
-> This is a collection of Material Icons that are used by Nulogy applications. This package is already imported into the `<Icon />` component of the [@nulogy/components](https://github.com/nulogy/design-system/tree/master/components), and the icons here can be chosen with the `icon` prop.
+> A collection of Icons that are used by Nulogy applications.
 
 ![npm (scoped)](https://img.shields.io/npm/v/@nulogy/css.svg)
 
 ## 📦 Installation
 
-If you don't have access to the React component, you can install these directly:
+The icons are required as a peer dependency of `@nulogy/components`. You can install them using:
 
 `$ yarn add @nulogy/icons`
 
-They can then be used in your application like any other `.svg`.
+It is recommended to use the icons is through the `icon` prop in the `<Icon />` component from `@nulogy/components`.
 
 ## ➕ Adding a new icon
 
@@ -25,4 +25,4 @@ To find and add a new icon:
 
 ## 💬 Questions
 
-- [#design-system](slack://channel?team=T024N2KKA&id=CBAFQ4X7X)
+- [#support-design-system](slack://channel?team=T024N2KKA&id=CBAFQ4X7X)
