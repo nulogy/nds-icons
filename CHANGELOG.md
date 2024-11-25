@@ -1,3 +1,10 @@
+# [4.36.0](https://github.com/nulogy/nds-icons/compare/v4.35.0...v4.36.0) (2024-11-25)
+
+
+### Features
+
+* introduce TypeScript types for icons ([2e57c69](https://github.com/nulogy/nds-icons/commit/2e57c698ad0ffa18ecab6fa75136b29b78aea720))
+
 # [4.35.0](https://github.com/nulogy/nds-icons/compare/v4.34.1...v4.35.0) (2024-10-02)
 
 
