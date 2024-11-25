@@ -1,7 +1,8 @@
 import babel from "@rollup/plugin-babel";
+import copy from "rollup-plugin-copy";
 
 export default {
-  input: "index.js",
+  input: "src/index.js",
   output: {
     name: "ndsIcons",
     file: "dist/main.js",
@@ -9,10 +10,11 @@ export default {
   },
   plugins: [
     babel({
-      /* exclude: globs to exclude */
       exclude: ["./node_modules/**/*"],
-      /* exclude: files to be transpiled by babel */
       extensions: [".js", ".jsx", ".json"],
+    }),
+    copy({
+      targets: [{ src: "src/index.d.ts", dest: "dist" }],
     }),
   ],
 };

@@ -1,8 +1,9 @@
 const fs = require("fs");
 const SVG = require("svgi");
+const path = require("path");
 
-const jsonPath = "assets/icons.json";
-const svgPath = "assets";
+const jsonPath = path.join(__dirname, "..", "assets", "icons.json");
+const svgPath = path.join(__dirname, "..", "assets");
 
 const parseSvg = (svg) => {
   const { nodes } = new SVG(svg).report();
@@ -19,7 +20,7 @@ const parseSvg = (svg) => {
   function getPath({ children }) {
     return children
       .filter(
-        (child) => child.type === "path" && child.properties.fill !== "none"
+        (child) => child.type === "path" && child.properties.fill !== "none",
       )
       .map((child) => child.properties.d);
   }
