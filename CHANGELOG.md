@@ -1,3 +1,10 @@
+# [4.37.0](https://github.com/nulogy/nds-icons/compare/v4.36.0...v4.37.0) (2024-12-04)
+
+
+### Features
+
+* add "home", "apps", and "arrowBack" icons ([21e18fd](https://github.com/nulogy/nds-icons/commit/21e18fd619815a9ba94c6be125a72ed45866febd))
+
 # [4.36.0](https://github.com/nulogy/nds-icons/compare/v4.35.0...v4.36.0) (2024-11-25)
 
 
