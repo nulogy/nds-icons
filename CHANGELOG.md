@@ -1,3 +1,10 @@
+## [4.37.1](https://github.com/nulogy/nds-icons/compare/v4.37.0...v4.37.1) (2024-12-04)
+
+
+### Bug Fixes
+
+* Change the Home icon to be lowercase ([3179cee](https://github.com/nulogy/nds-icons/commit/3179cee9b75b9f00c51a2739f9a27e0430453ba2))
+
 # [4.37.0](https://github.com/nulogy/nds-icons/compare/v4.36.0...v4.37.0) (2024-12-04)
 
 
