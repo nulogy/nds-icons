@@ -1,3 +1,10 @@
+## [4.37.2](https://github.com/nulogy/nds-icons/compare/v4.37.1...v4.37.2) (2024-12-04)
+
+
+### Bug Fixes
+
+* remove uppercase Home icon ([c1a3cff](https://github.com/nulogy/nds-icons/commit/c1a3cff5e7b896de39498f9ef9feadf97cf97a7c))
+
 ## [4.37.1](https://github.com/nulogy/nds-icons/compare/v4.37.0...v4.37.1) (2024-12-04)
 
 
