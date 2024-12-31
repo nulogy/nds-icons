@@ -1,3 +1,10 @@
+# [4.38.0](https://github.com/nulogy/nds-icons/compare/v4.37.2...v4.38.0) (2024-12-31)
+
+
+### Features
+
+* Add reset icon ([6a2545b](https://github.com/nulogy/nds-icons/commit/6a2545b7a1c60e80f5d23c936d5ad576da41adb5))
+
 ## [4.37.2](https://github.com/nulogy/nds-icons/compare/v4.37.1...v4.37.2) (2024-12-04)
 
 
