@@ -1,3 +1,10 @@
+## [4.38.1](https://github.com/nulogy/nds-icons/compare/v4.38.0...v4.38.1) (2025-04-07)
+
+
+### Bug Fixes
+
+* update app icon weight ([#195](https://github.com/nulogy/nds-icons/issues/195)) ([01de6ae](https://github.com/nulogy/nds-icons/commit/01de6ae81be6f13888a41c0311f1bbb2f0307871))
+
 # [4.38.0](https://github.com/nulogy/nds-icons/compare/v4.37.2...v4.38.0) (2024-12-31)
 
 
