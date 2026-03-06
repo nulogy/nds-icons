@@ -15,9 +15,9 @@
     "dist"
   ],
   "scripts": {
-    "build": "yarn generate:types && node src/collect-icon-svgs && rollup -c",
+    "build": "pnpm generate:types && node src/collect-icon-svgs && rollup -c",
     "format": "prettier --write \"**/*.{ts,js}\"",
-    "generate:types": "npx tsx src/generate-types.ts && yarn format"
+    "generate:types": "pnpx tsx src/generate-types.ts && pnpm format"
   },
   "devDependencies": {
     "@babel/core": "^7.12.3",
