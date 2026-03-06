@@ -1,3 +1,18 @@
+# [4.39.0](https://github.com/nulogy/nds-icons/compare/v4.38.1...v4.39.0) (2026-03-06)
+
+
+### Bug Fixes
+
+* No, really, releasing is fixed again ([c8bf0cd](https://github.com/nulogy/nds-icons/commit/c8bf0cd5e6b6cdbedb7d762da062e93b3b663de9))
+* Releases ought to work again ([e4d44c0](https://github.com/nulogy/nds-icons/commit/e4d44c01d8b3999987afa23488f89eec343577b2))
+* Releasing really works ([2aa3292](https://github.com/nulogy/nds-icons/commit/2aa3292729d8e5db50e05cf44fe8959213e715be))
+
+
+### Features
+
+* add split icon ([8cdd526](https://github.com/nulogy/nds-icons/commit/8cdd526df2669d76818de56560d533befc9a668f))
+* rename split to arrowSplit to match Material Symbols name ([91ef591](https://github.com/nulogy/nds-icons/commit/91ef591513599abc2efc92871691f188359a9d1e))
+
 ## [4.38.1](https://github.com/nulogy/nds-icons/compare/v4.38.0...v4.38.1) (2025-04-07)
 
 
