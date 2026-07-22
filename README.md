@@ -6,7 +6,14 @@
 
 ## 📦 Installation
 
-The icons are required as a peer dependency of `@nulogy/components`. You can install them using:
+The icons are required as a peer dependency of `@nulogy/components`. They are published to [GitHub Packages](https://docs.github.com/en/packages) under the `@nulogy` scope, so point the scope at GitHub Packages in your `.npmrc` and authenticate with a token that has `read:packages`:
+
+```
+@nulogy:registry=https://npm.pkg.github.com
+//npm.pkg.github.com/:_authToken=${NODE_AUTH_TOKEN}
+```
+
+Then install:
 
 `$ yarn add @nulogy/icons`
 
